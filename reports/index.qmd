@@ -48,11 +48,12 @@ num_outliers
 
 **Q3**
 
-How could you change the first line of code in the following chunk so that `median_count` comes out to `5L`?
+How could you change the first line of code in the following chunk so that `median_count` comes out to `5L`? I reordered the vectors.
 
 ```{r}
-quad_counts <- c(2L, 19L, 4L, 5L, 5L, 12L, 0L, 7L)
-valid_quads <- c(1, 2, 3, 5, 7) 2,19,4,5,0 0,2,4,5,19
+quad_counts <- c(5L, 5L, 2L, 19L, 0L, 4L, 12L, 7L)
+valid_quads <- c(1, 2, 3, 5, 7)
 quad_counts2 <- quad_counts[valid_quads]
 median_count <- median(quad_counts2)
+median_count
 ```
