@@ -28,7 +28,15 @@ num_outliers
 
 -   Two of the lines have mistakes that keep the code from doing what it's supposed to. What are the mistakes and how would you fix them?
 
+    -   I omitted NA from the initial vectors by using na.omit in the second line. Then I made sure that was the object in place for each operation that follows.
+
 -   What are the types of `bird_mass_g`, `is_outlier`, and `num_outliers`?
+
+    -   bird_mass_g - numeric
+
+    -   is_outlier - logical
+
+    -   num_outliers - integer
 
 **Q3**
 
