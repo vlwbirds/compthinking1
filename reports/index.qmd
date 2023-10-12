@@ -6,6 +6,14 @@ Match the following types of real-world data to their equivalent R type and expl
 
 -   Real world data: scientific names, the count of plants in a quadrat, whether or not it rained on a sequence of days, and the reaction times of birds to disturbances in seconds
 
+    -   scientific names - character
+
+    -   count of plants in a quadrat - integer
+
+    -   whether or not it rained on a sequence of days - logical
+
+    -   the reaction times of birds to disturbances in seconds - numeric
+
 -   R types: logical, integer, numeric, and character
 
 **Q2**
