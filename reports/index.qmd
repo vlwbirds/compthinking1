@@ -32,7 +32,7 @@ num_outliers
 
 -   In plain english, what does this code chunk do?
 
-    -   This code determines how many bird wights are considered outliers when the standard deviation is set to 1.
+    -   This code determines how many bird weights are considered outliers when the standard deviation is set to 1.
 
 -   Two of the lines have mistakes that keep the code from doing what it's supposed to. What are the mistakes and how would you fix them?
 
